@@ -77,7 +77,7 @@ $(document).ready(function() {
 
 /* Works sliders */
 
-	$('#carousel-1, #carousel-2, #carousel-3').carousel({
+	$('#carousel-1, #carousel-2, #carousel-3, #carousel-4').carousel({
 		interval: false
 	})
 
